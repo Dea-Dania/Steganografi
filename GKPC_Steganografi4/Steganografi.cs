@@ -129,9 +129,6 @@ namespace GKPC_Steganografi4
                         {
                             case 0:
                                 {
-                                    // Setelah bersusah-susah, diajari masternya di forum coding
-                                    // Dikasih rumus ini
-                                    // Maaf ya
                                     charVal = charVal * 2 + px.R % 2;
                                 }
                                 break;
